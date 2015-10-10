@@ -1,0 +1,1 @@
+Adresář ./time/ obsahuje verze programu bez GUI, na kterých bylo prováděno měření. Každý skript v ./time/ vrací dobu běhu programu. 
